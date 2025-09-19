@@ -16,3 +16,10 @@ This project focuses on **UI design, form structure, and user-friendly layout** 
 - **JavaScript** – For form interaction (if applicable)  
 
 ## Project Structure
+```
+Job-Application-Form/
+│── index.html 
+│── style.css 
+│── script.js 
+│── assets/
+```
