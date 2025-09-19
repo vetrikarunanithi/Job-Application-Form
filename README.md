@@ -20,6 +20,21 @@ This project focuses on **UI design, form structure, and user-friendly layout** 
 Job-Application-Form/
 │── index.html 
 │── style.css 
-│── script.js 
-│── assets/
+│── main.js
 ```
+
+## How to Run Locally
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/vetrikarunanithi/Job-Application-Form.git
+2. Open `index.html` in your browser to view the form.
+
+## Future Enhancements
+- Form field validations
+- Integration with backend API
+- Improved accessibility features
+
+## Author
+**Vetriselvan Karunanithi**  
+GitHub: [vetrikarunanithi](https://github.com/vetrikarunanithi)  
+LinkedIn: [Vetriselvan Karunanithi](https://www.linkedin.com/in/vetriselvank)
